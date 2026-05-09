@@ -2,3 +2,5 @@ smartapi-python
 pyotp
 python-dotenv
 pandas
+logzero
+websocket-client
